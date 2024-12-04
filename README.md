@@ -75,12 +75,11 @@ The trained model achieved an accuracy of **96.38%** on the test dataset.
    - NumPy
    - streamlit
 2. Place the dataset in a folder named `DATASET` with the structure as described above.
-3. Run the script to train the model:
-   
-   ```bash
-   
-   python yoga_pose_detection.py
+3. After training and saving the model, Run the following script to use it:
 
+ ```
+  python -m streamlit run app.py
+ ```
 
 ### Video Demo
 
