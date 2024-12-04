@@ -76,6 +76,7 @@ The trained model achieved an accuracy of **96.38%** on the test dataset.
 2. Place the dataset in a folder named `DATASET` with the structure as described above.
 3. Run the script to train the model:
    ```bash
+   
    python yoga_pose_detection.py
 
 
@@ -83,8 +84,5 @@ The trained model achieved an accuracy of **96.38%** on the test dataset.
 
 You can view the demo video of the Yoga Pose Detection model here:
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](demo.mp4)
 
