@@ -84,5 +84,8 @@ The trained model achieved an accuracy of **96.38%** on the test dataset.
 
 You can view the demo video of the Yoga Pose Detection model here:
 
-![Demo Video](demo.mp4)
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
