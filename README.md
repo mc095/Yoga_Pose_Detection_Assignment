@@ -81,6 +81,14 @@ The trained model achieved an accuracy of **96.38%** on the test dataset.
   python -m streamlit run app.py
  ```
 
+## Next Steps
+
+1. Fine-tuning the model by unfreezing layers and increasing the dataset to improve accuracy.
+2. Implementing a real-time pose detection using a webcam or mobile camera for live feedback.
+3. Expanding the model to recognize more yoga poses and integrate real-time posture correction.
+4. Deploying the model to the cloud or a mobile app for scalable and accessible yoga pose analysis.
+
+
 ### Video Demo
 
 You can view the demo video of the Yoga Pose Detection model here:
